@@ -62,16 +62,6 @@ UX-focused fitness web application emphasizing clarity, accessibility, and user 
 ### Game Development (Godot)
 Small-scale 2D action and wave-based games exploring AI behavior, modular systems, and immersive gameplay mechanics.
 
----
-
-## Core Principles
-
-- Architecture before features  
-- Security is non-negotiable  
-- Simplicity scales  
-- UX is part of engineering  
-
----
 
 ## Currently Learning
 
