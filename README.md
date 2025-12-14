@@ -81,17 +81,6 @@ Focused on usability, accessibility, and smooth user flows, with design decision
 **2D Action & Wave-Based Games**  
 Exploring modular systems, simple AI behavior, and gameplay progression for immersive yet lightweight game experiences.
 
----
-
-## Engineering Principles
-
-- Clean architecture over shortcuts  
-- Security built-in, not added later  
-- Maintainability is a feature  
-- UX and logic are equally important  
-
----
-
 ## Professional Development
 
 <p>
