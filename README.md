@@ -94,7 +94,7 @@ Exploring modular systems, simple AI behavior, and gameplay progression for imme
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&hide_title=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rajil-s&show_icons=true&hide_border=true&hide_title=true"/>
 </p>
 
 ---
